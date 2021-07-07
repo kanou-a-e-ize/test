@@ -8,6 +8,6 @@ public class Test1 {
 
 	@GetMapping("/test1")
 	public String write1() {
-		return "Hello World!-Welcome!"; 
+		return "Hello World!-Welcome!-2"; 
 	}
 }
